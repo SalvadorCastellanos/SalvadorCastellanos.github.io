@@ -400,3 +400,16 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+@media only screen and (min-width: 630px) {
+  /* only for screens wider or equal to 630 pixels */
+  /* code from https://www.thesitewizard.com/css/design-2-column-layout.shtml */
+  #coursework #left{
+  width: 280px;
+  float: left;
+}
+#coursework #right{
+  width: 280px;
+  float: right;
+}
+}
