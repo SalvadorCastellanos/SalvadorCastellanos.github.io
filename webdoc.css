@@ -165,11 +165,11 @@ h1, h2, h3 {
 }
 
 #coursework #left{
-  width:480px;
+  width:30%;
   float: left;
 }
 #coursework #right{
-  width:480px;
+  width:30%;
   float: right;
 }
 
